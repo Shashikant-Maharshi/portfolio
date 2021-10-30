@@ -1,14 +1,14 @@
 {
-  "name": "restaurant-app-nextjs",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Practicing NextJS",
+  "description": "Practicing Gatsby JS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shashikant-Maharshi/restaurant-app-nextjs.git"
+    "url": "git+https://github.com/Shashikant-Maharshi/portfolio.git"
   },
   "keywords": [
     "nextjs"
@@ -16,7 +16,7 @@
   "author": "shashikant",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Shashikant-Maharshi/restaurant-app-nextjs/issues"
+    "url": "https://github.com/Shashikant-Maharshi/portfolio/issues"
   },
-  "homepage": "https://github.com/Shashikant-Maharshi/restaurant-app-nextjs#readme"
+  "homepage": "https://github.com/Shashikant-Maharshi/portfolio#readme"
 }
