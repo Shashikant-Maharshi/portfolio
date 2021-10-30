@@ -1,2 +1,2 @@
-# restaurant-app-nextjs
-Practicing NextJS
+# Portfolio
+Practicing Gatsby JS
